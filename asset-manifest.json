@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Hoisting/static/css/main.f855e6bc.css",
+    "main.js": "/React-Hoisting/static/js/main.fc81924a.js",
+    "static/js/453.ed3810f9.chunk.js": "/React-Hoisting/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/React-Hoisting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Hoisting/index.html",
+    "main.f855e6bc.css.map": "/React-Hoisting/static/css/main.f855e6bc.css.map",
+    "main.fc81924a.js.map": "/React-Hoisting/static/js/main.fc81924a.js.map",
+    "453.ed3810f9.chunk.js.map": "/React-Hoisting/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fc81924a.js"
+  ]
+}
